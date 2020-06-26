@@ -31,7 +31,7 @@ layout: post
 
 **温馨提醒：**可以收藏观看哦[MarkDown语法教程][src] 。
 
-  [src]: https://yimao.info/MarkDown-Study.html
+  [src]: https://yimao.info/Markdown-study.html
 
 * * *
 
