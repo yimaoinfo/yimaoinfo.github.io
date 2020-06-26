@@ -1,7 +1,6 @@
 ---
 title: Markdown中文语法教程文档
-
-date: 2018-02-17 18:01:42
+layout: post
 ---
 
 > **Markdown** 是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。
@@ -32,7 +31,7 @@ date: 2018-02-17 18:01:42
 
 **温馨提醒：**可以收藏观看哦[MarkDown语法教程][src] 。
 
-  [src]: https://yimao.info/MarkDown-Study
+  [src]: https://yimao.info/MarkDown-Study.html
 
 * * *
 
